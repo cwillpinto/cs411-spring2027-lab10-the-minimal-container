@@ -5,6 +5,8 @@
 **Due:** April 11, 2027  
 **Value:** 100 points
 
+**Starter repository:** [Open the Spring 2027 starter](https://github.com/cwillpinto/cs411-spring2027-lab10-the-minimal-container)
+
 ## Purpose
 
 Package the supplied service with a multi-stage Docker build. Keep compilers, caches, credentials, and source history out of the runtime image, then run the service as a non-root user.
